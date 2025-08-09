@@ -1,0 +1,127 @@
+{
+    "dataset_info": {
+        "dataset_id": "2022_2_077_1",
+        "dataset_name": "국악 음원 데이터",
+        "dataset_src_path": "/data/유사국악/S_퓨전국악",
+        "dataset_ver": 6,
+        "dataset_type": 3
+    },
+    "music_source_info": {
+        "music_src_nm": "BP_FS1_00300",
+        "music_src_fmt": "wav",
+        "music_src_type": "P",
+        "music_nm_kor": "편지 (천지윤)",
+        "phrs_nm_kor": "편지 (천지윤) - 07",
+        "play_time": 16.25,
+        "music_trk_nmbr": 1,
+        "multi_trk_src_file_name": "",
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "channel": "S"
+    },
+    "get_info": {
+        "get_place": "고금"
+    },
+    "music_type_info": {
+        "music_catagory_1": "유사국악",
+        "music_genre_cd": "FS1",
+        "instrument_cd": "SR01",
+        "main_instr_player": "천지윤"
+    },
+    "annotation_data_info": {
+        "mode_cd": "MG17",
+        "gukak_beat_cd": "NB0013",
+        "single_tonguing_cd": [
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 1,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "0.404",
+                "end_time": "1.323"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 2,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "1.682",
+                "end_time": "2.434"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 3,
+                "annotation_code": "DW02",
+                "annotation_name": "남도 꺾는청",
+                "start_time": "2.692",
+                "end_time": "3.286"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 4,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "3.297",
+                "end_time": "4.362"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 5,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "5.809",
+                "end_time": "6.392"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 6,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "8.344",
+                "end_time": "9.510"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 7,
+                "annotation_code": "DW02",
+                "annotation_name": "남도 꺾는청",
+                "start_time": "9.544",
+                "end_time": "9.869"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 8,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "11.114",
+                "end_time": "11.719"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 9,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "12.246",
+                "end_time": "13.469"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 10,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "13.962",
+                "end_time": "16.228"
+            }
+        ],
+        "tempo": [
+            {
+                "annotation_category": "템포",
+                "annotation_ID": 1,
+                "annotation_code": 143,
+                "start_time": "0.000",
+                "end_time": "16.250"
+            }
+        ],
+        "lyrics": []
+    }
+}

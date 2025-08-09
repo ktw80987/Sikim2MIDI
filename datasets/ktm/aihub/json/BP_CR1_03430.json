@@ -1,0 +1,63 @@
+{
+    "dataset_info": {
+        "dataset_id": "2022_2_077_1",
+        "dataset_name": "국악 음원 데이터",
+        "dataset_src_path": "/data/유사국악/R_창작국악",
+        "dataset_ver": 6,
+        "dataset_type": 3
+    },
+    "music_source_info": {
+        "music_src_nm": "BP_CR1_03430",
+        "music_src_fmt": "wav",
+        "music_src_type": "P",
+        "music_nm_kor": "복줄가",
+        "phrs_nm_kor": "복줄가 아쟁 - 02",
+        "play_time": 8.758,
+        "music_trk_nmbr": 1,
+        "multi_trk_src_file_name": "",
+        "samplingRate": 48000,
+        "bitDepth": 24,
+        "channel": "M"
+    },
+    "get_info": {
+        "get_place": "㈜ 프로덕션 고금"
+    },
+    "music_type_info": {
+        "music_catagory_1": "유사국악",
+        "music_genre_cd": "CR1",
+        "instrument_cd": "SR02",
+        "main_instr_player": ""
+    },
+    "annotation_data_info": {
+        "mode_cd": "MG09",
+        "gukak_beat_cd": "NB0013",
+        "single_tonguing_cd": [
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 1,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "3.262",
+                "end_time": "5.660"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 2,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "0.864",
+                "end_time": "2.048"
+            }
+        ],
+        "tempo": [
+            {
+                "annotation_category": "템포",
+                "annotation_ID": 1,
+                "annotation_code": 152,
+                "start_time": "0.000",
+                "end_time": "5.660"
+            }
+        ],
+        "lyrics": []
+    }
+}

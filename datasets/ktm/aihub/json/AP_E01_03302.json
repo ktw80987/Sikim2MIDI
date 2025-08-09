@@ -1,0 +1,79 @@
+{
+    "dataset_info": {
+        "dataset_id": "2022_2_077_1",
+        "dataset_name": "국악 음원 데이터",
+        "dataset_src_path": "/data/국악/E_풍류음악",
+        "dataset_ver": 6,
+        "dataset_type": 3
+    },
+    "music_source_info": {
+        "music_src_nm": "AP_E01_03302",
+        "music_src_fmt": "wav",
+        "music_src_type": "P",
+        "music_nm_kor": "평조회상 세령산(성음지교3)",
+        "phrs_nm_kor": "평조회상 세령산(성음지교3) 피리 - 01",
+        "play_time": 19.021,
+        "music_trk_nmbr": 1,
+        "multi_trk_src_file_name": "",
+        "samplingRate": 48000,
+        "bitDepth": 24,
+        "channel": "M"
+    },
+    "get_info": {
+        "get_place": "고금"
+    },
+    "music_type_info": {
+        "music_catagory_1": "국악",
+        "music_genre_cd": "E01",
+        "instrument_cd": "WR01",
+        "main_instr_player": "진윤경"
+    },
+    "annotation_data_info": {
+        "mode_cd": "MF02",
+        "gukak_beat_cd": "DQ1001",
+        "single_tonguing_cd": [
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 1,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "1.110",
+                "end_time": "1.982"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 2,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "4.109",
+                "end_time": "5.126"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 3,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "7.907",
+                "end_time": "9.339"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 4,
+                "annotation_code": "DW01",
+                "annotation_name": "퇴성",
+                "start_time": "9.381",
+                "end_time": "9.941"
+            }
+        ],
+        "tempo": [
+            {
+                "annotation_category": "템포",
+                "annotation_ID": 1,
+                "annotation_code": 90,
+                "start_time": "0.000",
+                "end_time": "19.021"
+            }
+        ],
+        "lyrics": []
+    }
+}

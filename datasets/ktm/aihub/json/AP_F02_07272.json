@@ -1,0 +1,127 @@
+{
+    "dataset_info": {
+        "dataset_id": "2022_2_077_1",
+        "dataset_name": "국악 음원 데이터",
+        "dataset_src_path": "/data/국악/F_민속악",
+        "dataset_ver": 6,
+        "dataset_type": 3
+    },
+    "music_source_info": {
+        "music_src_nm": "AP_F02_07272",
+        "music_src_fmt": "wav",
+        "music_src_type": "P",
+        "music_nm_kor": "서용석류 대금산조 진양",
+        "phrs_nm_kor": "서용석류 대금산조 진양 대금 - 13",
+        "play_time": 26.787,
+        "music_trk_nmbr": 1,
+        "multi_trk_src_file_name": "",
+        "samplingRate": 48000,
+        "bitDepth": 24,
+        "channel": "M"
+    },
+    "get_info": {
+        "get_place": "(주) 프로덕션 고금 "
+    },
+    "music_type_info": {
+        "music_catagory_1": "국악",
+        "music_genre_cd": "F02",
+        "instrument_cd": "WN01",
+        "main_instr_player": "김상연"
+    },
+    "annotation_data_info": {
+        "mode_cd": "MF06",
+        "gukak_beat_cd": "DQ0603",
+        "single_tonguing_cd": [
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 1,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "7.037",
+                "end_time": "8.647"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 2,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "10.091",
+                "end_time": "10.722"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 3,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "11.352",
+                "end_time": "12.697"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 4,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "15.867",
+                "end_time": "16.364"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 5,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "18.339",
+                "end_time": "19.319"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 6,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "19.717",
+                "end_time": "20.198"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 7,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "21.244",
+                "end_time": "22.074"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 8,
+                "annotation_code": "DW01",
+                "annotation_name": "퇴성",
+                "start_time": "14.157",
+                "end_time": "14.854"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 9,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "16.862",
+                "end_time": "17.676"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 10,
+                "annotation_code": "DW01",
+                "annotation_name": "퇴성",
+                "start_time": "3.907",
+                "end_time": "4.387"
+            }
+        ],
+        "tempo": [
+            {
+                "annotation_category": "템포",
+                "annotation_ID": 1,
+                "annotation_code": 80,
+                "start_time": "0.000",
+                "end_time": "26.787"
+            }
+        ],
+        "lyrics": []
+    }
+}

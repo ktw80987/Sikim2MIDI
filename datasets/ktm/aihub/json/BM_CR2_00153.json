@@ -1,0 +1,295 @@
+{
+    "dataset_info": {
+        "dataset_id": "2022_2_077_1",
+        "dataset_name": "국악 음원 데이터",
+        "dataset_src_path": "/data/유사국악/R_창작국악",
+        "dataset_ver": 6,
+        "dataset_type": 3
+    },
+    "music_source_info": {
+        "music_src_nm": "BM_CR2_00153",
+        "music_src_fmt": "wav",
+        "music_src_type": "M",
+        "music_nm_kor": "넋두리",
+        "phrs_nm_kor": "",
+        "play_time": 49.917,
+        "music_trk_nmbr": 1,
+        "multi_trk_src_file_name": "",
+        "samplingRate": 44100,
+        "bitDepth": 24,
+        "channel": "S"
+    },
+    "get_info": {
+        "get_place": "고금"
+    },
+    "music_type_info": {
+        "music_catagory_1": "유사국악",
+        "music_genre_cd": "CR2",
+        "instrument_cd": "SR01",
+        "main_instr_player": "김민정"
+    },
+    "annotation_data_info": {
+        "mode_cd": "MG11",
+        "gukak_beat_cd": "QN1202",
+        "single_tonguing_cd": [
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 1,
+                "annotation_code": "DW01",
+                "annotation_name": "퇴성",
+                "start_time": "0.310",
+                "end_time": "1.516"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 2,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "2.067",
+                "end_time": "2.997"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 3,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "3.238",
+                "end_time": "5.925"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 4,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "6.339",
+                "end_time": "6.993"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 5,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "6.993",
+                "end_time": "7.717"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 6,
+                "annotation_code": "DW01",
+                "annotation_name": "퇴성",
+                "start_time": "8.233",
+                "end_time": "9.060"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 7,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "9.508",
+                "end_time": "10.851"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 8,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "13.022",
+                "end_time": "13.917"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 9,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "14.985",
+                "end_time": "16.398"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 10,
+                "annotation_code": "DW01",
+                "annotation_name": "퇴성",
+                "start_time": "17.052",
+                "end_time": "17.914"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 11,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "18.155",
+                "end_time": "18.981"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 12,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "18.981",
+                "end_time": "19.912"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 13,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "19.912",
+                "end_time": "20.704"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 14,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "21.634",
+                "end_time": "23.115"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 15,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "24.390",
+                "end_time": "25.010"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 16,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "28.352",
+                "end_time": "29.902"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 17,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "30.040",
+                "end_time": "30.970"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 18,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "30.970",
+                "end_time": "31.486"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 19,
+                "annotation_code": "DW01",
+                "annotation_name": "퇴성",
+                "start_time": "32.175",
+                "end_time": "32.933"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 20,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "33.312",
+                "end_time": "34.862"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 21,
+                "annotation_code": "DW01",
+                "annotation_name": "퇴성",
+                "start_time": "35.310",
+                "end_time": "35.999"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 22,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "36.482",
+                "end_time": "36.964"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 23,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "36.964",
+                "end_time": "37.618"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 24,
+                "annotation_code": "DW01",
+                "annotation_name": "퇴성",
+                "start_time": "38.135",
+                "end_time": "38.790"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 25,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "38.859",
+                "end_time": "40.340"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 26,
+                "annotation_code": "DW01",
+                "annotation_name": "퇴성",
+                "start_time": "40.960",
+                "end_time": "41.787"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 27,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "42.166",
+                "end_time": "42.958"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 28,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "42.958",
+                "end_time": "43.854"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 29,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "44.060",
+                "end_time": "44.818"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 30,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "45.921",
+                "end_time": "46.851"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 31,
+                "annotation_code": "DW01",
+                "annotation_name": "퇴성",
+                "start_time": "11.230",
+                "end_time": "11.919"
+            }
+        ],
+        "tempo": [
+            {
+                "annotation_category": "템포",
+                "annotation_ID": 1,
+                "annotation_code": 122,
+                "start_time": "0.000",
+                "end_time": "49.917"
+            }
+        ],
+        "lyrics": []
+    }
+}

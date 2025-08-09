@@ -1,0 +1,63 @@
+{
+    "dataset_info": {
+        "dataset_id": "2022_2_077_1",
+        "dataset_name": "국악 음원 데이터",
+        "dataset_src_path": "/data/국악/F_민속악",
+        "dataset_ver": 6,
+        "dataset_type": 3
+    },
+    "music_source_info": {
+        "music_src_nm": "AP_F01_00223",
+        "music_src_fmt": "wav",
+        "music_src_type": "P",
+        "music_nm_kor": "경기대풍류 중 반염불",
+        "phrs_nm_kor": "경기대풍류 중 반염불 - 01",
+        "play_time": 5.538,
+        "music_trk_nmbr": 1,
+        "multi_trk_src_file_name": "",
+        "samplingRate": 44100,
+        "bitDepth": 24,
+        "channel": "S"
+    },
+    "get_info": {
+        "get_place": "국립국악원"
+    },
+    "music_type_info": {
+        "music_catagory_1": "국악",
+        "music_genre_cd": "F01",
+        "instrument_cd": "SR01",
+        "main_instr_player": ""
+    },
+    "annotation_data_info": {
+        "mode_cd": "MF01",
+        "gukak_beat_cd": "DQ0602",
+        "single_tonguing_cd": [
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 1,
+                "annotation_code": "DW01",
+                "annotation_name": "퇴성",
+                "start_time": "0.523",
+                "end_time": "0.900"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 2,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "0.928",
+                "end_time": "1.828"
+            }
+        ],
+        "tempo": [
+            {
+                "annotation_category": "템포",
+                "annotation_ID": 1,
+                "annotation_code": 195,
+                "start_time": "0.000",
+                "end_time": "5.538"
+            }
+        ],
+        "lyrics": []
+    }
+}

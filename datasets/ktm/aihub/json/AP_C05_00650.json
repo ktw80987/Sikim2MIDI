@@ -1,0 +1,71 @@
+{
+    "dataset_info": {
+        "dataset_id": "2022_2_077_1",
+        "dataset_name": "국악 음원 데이터",
+        "dataset_src_path": "/data/국악/C_궁중음악",
+        "dataset_ver": 6,
+        "dataset_type": 3
+    },
+    "music_source_info": {
+        "music_src_nm": "AP_C05_00650",
+        "music_src_fmt": "wav",
+        "music_src_type": "P",
+        "music_nm_kor": "수제천",
+        "phrs_nm_kor": "수제천 제1장단 마지막 2정간 - 제2장단 3정간",
+        "play_time": 9.069,
+        "music_trk_nmbr": 1,
+        "multi_trk_src_file_name": "",
+        "samplingRate": 44100,
+        "bitDepth": 16,
+        "channel": "M"
+    },
+    "get_info": {
+        "get_place": "국립국악원"
+    },
+    "music_type_info": {
+        "music_catagory_1": "국악",
+        "music_genre_cd": "C05",
+        "instrument_cd": "WN02",
+        "main_instr_player": ""
+    },
+    "annotation_data_info": {
+        "mode_cd": "MG09",
+        "gukak_beat_cd": "NB0013",
+        "single_tonguing_cd": [
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 1,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "1.034",
+                "end_time": "1.565"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 2,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "2.676",
+                "end_time": "3.630"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 3,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "7.991",
+                "end_time": "9.069"
+            }
+        ],
+        "tempo": [
+            {
+                "annotation_category": "템포",
+                "annotation_ID": 1,
+                "annotation_code": 75,
+                "start_time": "0.000",
+                "end_time": "9.069"
+            }
+        ],
+        "lyrics": []
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "dataset_info": {
+        "dataset_id": "2022_2_077_1",
+        "dataset_name": "국악 음원 데이터",
+        "dataset_src_path": "/data/국악/F_민속악",
+        "dataset_ver": 6,
+        "dataset_type": 3
+    },
+    "music_source_info": {
+        "music_src_nm": "AP_F02_00850",
+        "music_src_fmt": "wav",
+        "music_src_type": "P",
+        "music_nm_kor": "한갑득류 거문고산조",
+        "phrs_nm_kor": "한갑득류 거문고산조 중중모리 - 02",
+        "play_time": 6.0,
+        "music_trk_nmbr": 1,
+        "multi_trk_src_file_name": "",
+        "samplingRate": 44100,
+        "bitDepth": 24,
+        "channel": "S"
+    },
+    "get_info": {
+        "get_place": "국립국악원"
+    },
+    "music_type_info": {
+        "music_catagory_1": "국악",
+        "music_genre_cd": "F02",
+        "instrument_cd": "SP02",
+        "main_instr_player": "이재하"
+    },
+    "annotation_data_info": {
+        "mode_cd": "MG17",
+        "gukak_beat_cd": "DQ0403",
+        "single_tonguing_cd": [
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 1,
+                "annotation_code": "DW02",
+                "annotation_name": "남도 꺾는청",
+                "start_time": "5.130",
+                "end_time": "5.505"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 2,
+                "annotation_code": "DW02",
+                "annotation_name": "남도 꺾는청",
+                "start_time": "5.516",
+                "end_time": "5.996"
+            }
+        ],
+        "tempo": [
+            {
+                "annotation_category": "템포",
+                "annotation_ID": 1,
+                "annotation_code": 120,
+                "start_time": "0.000",
+                "end_time": "6.000"
+            }
+        ],
+        "lyrics": []
+    }
+}

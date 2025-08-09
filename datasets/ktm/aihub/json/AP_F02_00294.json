@@ -1,0 +1,135 @@
+{
+    "dataset_info": {
+        "dataset_id": "2022_2_077_1",
+        "dataset_name": "국악 음원 데이터",
+        "dataset_src_path": "/data/국악/F_민속악",
+        "dataset_ver": 6,
+        "dataset_type": 3
+    },
+    "music_source_info": {
+        "music_src_nm": "AP_F02_00294",
+        "music_src_fmt": "wav",
+        "music_src_type": "P",
+        "music_nm_kor": "한갑득류 거문고산조",
+        "phrs_nm_kor": "한갑득류 거문고산조 중모리 - 02",
+        "play_time": 23.876,
+        "music_trk_nmbr": 1,
+        "multi_trk_src_file_name": "",
+        "samplingRate": 44100,
+        "bitDepth": 24,
+        "channel": "S"
+    },
+    "get_info": {
+        "get_place": "국립국악원"
+    },
+    "music_type_info": {
+        "music_catagory_1": "국악",
+        "music_genre_cd": "F02",
+        "instrument_cd": "SP02",
+        "main_instr_player": ""
+    },
+    "annotation_data_info": {
+        "mode_cd": "MG17",
+        "gukak_beat_cd": "QN1202",
+        "single_tonguing_cd": [
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 1,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "3.932",
+                "end_time": "5.456"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 2,
+                "annotation_code": "DW02",
+                "annotation_name": "남도 꺾는청",
+                "start_time": "7.455",
+                "end_time": "7.972"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 3,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "8.027",
+                "end_time": "8.952"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 4,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "13.496",
+                "end_time": "13.999"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 5,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "14.992",
+                "end_time": "15.550"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 6,
+                "annotation_code": "DW02",
+                "annotation_name": "남도 꺾는청",
+                "start_time": "15.564",
+                "end_time": "16.026"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 7,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "16.979",
+                "end_time": "17.523"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 8,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "19.958",
+                "end_time": "20.910"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 9,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "22.938",
+                "end_time": "23.863"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 10,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "17.527",
+                "end_time": "17.968"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 11,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "19.366",
+                "end_time": "19.860"
+            }
+        ],
+        "tempo": [
+            {
+                "annotation_category": "템포",
+                "annotation_ID": 1,
+                "annotation_code": 120,
+                "start_time": "0.000",
+                "end_time": "23.876"
+            }
+        ],
+        "lyrics": []
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "dataset_info": {
+        "dataset_id": "2022_2_077_1",
+        "dataset_name": "국악 음원 데이터",
+        "dataset_src_path": "/data/유사국악/S_퓨전국악",
+        "dataset_ver": 6,
+        "dataset_type": 3
+    },
+    "music_source_info": {
+        "music_src_nm": "BP_FS1_02606",
+        "music_src_fmt": "wav",
+        "music_src_type": "P",
+        "music_nm_kor": "모차르트 작은별",
+        "phrs_nm_kor": "모차르트 작은별 가야금 - 03",
+        "play_time": 8.933,
+        "music_trk_nmbr": 1,
+        "multi_trk_src_file_name": "",
+        "samplingRate": 48000,
+        "bitDepth": 24,
+        "channel": "M"
+    },
+    "get_info": {
+        "get_place": "(주) 프로덕션 고금 "
+    },
+    "music_type_info": {
+        "music_catagory_1": "유사국악",
+        "music_genre_cd": "FS1",
+        "instrument_cd": "SP01",
+        "main_instr_player": "황정수"
+    },
+    "annotation_data_info": {
+        "mode_cd": "MF08",
+        "gukak_beat_cd": "NB0013",
+        "single_tonguing_cd": [
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 1,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "1.100",
+                "end_time": "2.209"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 2,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "3.305",
+                "end_time": "4.446"
+            }
+        ],
+        "tempo": [
+            {
+                "annotation_category": "템포",
+                "annotation_ID": 1,
+                "annotation_code": 108,
+                "start_time": "0.000",
+                "end_time": "8.933"
+            }
+        ],
+        "lyrics": []
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "dataset_info": {
+        "dataset_id": "2022_2_077_1",
+        "dataset_name": "국악 음원 데이터",
+        "dataset_src_path": "/data/국악/F_민속악",
+        "dataset_ver": 6,
+        "dataset_type": 3
+    },
+    "music_source_info": {
+        "music_src_nm": "AP_F02_04120",
+        "music_src_fmt": "wav",
+        "music_src_type": "P",
+        "music_nm_kor": "신관용류 가야금산조 긴산조 진양",
+        "phrs_nm_kor": "신관용류 가야금산조 긴산조 진양 가야금 - 18",
+        "play_time": 13.096,
+        "music_trk_nmbr": 1,
+        "multi_trk_src_file_name": "",
+        "samplingRate": 44100,
+        "bitDepth": 24,
+        "channel": "S"
+    },
+    "get_info": {
+        "get_place": "고금"
+    },
+    "music_type_info": {
+        "music_catagory_1": "국악",
+        "music_genre_cd": "F02",
+        "instrument_cd": "SP01",
+        "main_instr_player": "서은영"
+    },
+    "annotation_data_info": {
+        "mode_cd": "MF07",
+        "gukak_beat_cd": "DQ0603",
+        "single_tonguing_cd": [
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 1,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "0.007",
+                "end_time": "1.315"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 2,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "2.172",
+                "end_time": "3.694"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 3,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "3.694",
+                "end_time": "4.430"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 4,
+                "annotation_code": "DW01",
+                "annotation_name": "퇴성",
+                "start_time": "4.437",
+                "end_time": "5.165"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 5,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "5.973",
+                "end_time": "6.566"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 6,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "6.644",
+                "end_time": "8.066"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 7,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "8.073",
+                "end_time": "8.816"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 8,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "9.524",
+                "end_time": "10.338"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 9,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "10.995",
+                "end_time": "11.767"
+            }
+        ],
+        "tempo": [
+            {
+                "annotation_category": "템포",
+                "annotation_ID": 1,
+                "annotation_code": 81,
+                "start_time": "0.000",
+                "end_time": "13.096"
+            }
+        ],
+        "lyrics": []
+    }
+}

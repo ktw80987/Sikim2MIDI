@@ -1,0 +1,1 @@
+Bar_None TimeSig_12/8 Position_0 Tempo_121.29 Program_0 Pitch_53 Velocity_51 Duration_5.2.4 Position_44 Program_0 Pitch_50 Velocity_51 Duration_12.0.4 Bar_None TimeSig_12/8 Position_48 Program_0 Pitch_50 Velocity_51 Duration_12.0.4

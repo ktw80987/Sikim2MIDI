@@ -1,0 +1,143 @@
+{
+    "dataset_info": {
+        "dataset_id": "2022_2_077_1",
+        "dataset_name": "국악 음원 데이터",
+        "dataset_src_path": "/data/국악/F_민속악",
+        "dataset_ver": 6,
+        "dataset_type": 3
+    },
+    "music_source_info": {
+        "music_src_nm": "AP_F06_06837",
+        "music_src_fmt": "wav",
+        "music_src_type": "P",
+        "music_nm_kor": "몽금포타령 (전병훈)",
+        "phrs_nm_kor": "몽금포타령 (전병훈) 해금 - 01",
+        "play_time": 20.227,
+        "music_trk_nmbr": 1,
+        "multi_trk_src_file_name": "",
+        "samplingRate": 48000,
+        "bitDepth": 24,
+        "channel": "M"
+    },
+    "get_info": {
+        "get_place": "(주) 프로덕션 고금 "
+    },
+    "music_type_info": {
+        "music_catagory_1": "국악",
+        "music_genre_cd": "F06",
+        "instrument_cd": "SR01",
+        "main_instr_player": "소윤선"
+    },
+    "annotation_data_info": {
+        "mode_cd": "MG15",
+        "gukak_beat_cd": "QN1202",
+        "single_tonguing_cd": [
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 1,
+                "annotation_code": "VB03",
+                "annotation_name": "서도요성",
+                "start_time": "1.004",
+                "end_time": "1.821"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 2,
+                "annotation_code": "VB03",
+                "annotation_name": "서도요성",
+                "start_time": "3.465",
+                "end_time": "4.381"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 3,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "5.175",
+                "end_time": "6.003"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 4,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "6.014",
+                "end_time": "7.482"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 5,
+                "annotation_code": "DW01",
+                "annotation_name": "퇴성",
+                "start_time": "10.185",
+                "end_time": "11.046"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 6,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "11.035",
+                "end_time": "11.653"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 7,
+                "annotation_code": "VB03",
+                "annotation_name": "서도요성",
+                "start_time": "13.705",
+                "end_time": "14.356"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 8,
+                "annotation_code": "DW01",
+                "annotation_name": "퇴성",
+                "start_time": "15.019",
+                "end_time": "15.372"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 9,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "15.394",
+                "end_time": "16.894"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 10,
+                "annotation_code": "DW01",
+                "annotation_name": "퇴성",
+                "start_time": "17.435",
+                "end_time": "17.877"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 11,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "17.899",
+                "end_time": "19.212"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 12,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "19.313",
+                "end_time": "19.996"
+            }
+        ],
+        "tempo": [
+            {
+                "annotation_category": "템포",
+                "annotation_ID": 1,
+                "annotation_code": 142,
+                "start_time": "0.000",
+                "end_time": "20.227"
+            }
+        ],
+        "lyrics": []
+    }
+}

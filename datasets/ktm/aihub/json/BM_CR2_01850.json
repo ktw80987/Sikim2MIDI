@@ -1,0 +1,103 @@
+{
+    "dataset_info": {
+        "dataset_id": "2022_2_077_1",
+        "dataset_name": "국악 음원 데이터",
+        "dataset_src_path": "/data/유사국악/R_창작국악",
+        "dataset_ver": 6,
+        "dataset_type": 3
+    },
+    "music_source_info": {
+        "music_src_nm": "BM_CR2_01850",
+        "music_src_fmt": "wav",
+        "music_src_type": "M",
+        "music_nm_kor": "가을 모아지다",
+        "phrs_nm_kor": "",
+        "play_time": 77.521,
+        "music_trk_nmbr": 1,
+        "multi_trk_src_file_name": "",
+        "samplingRate": 48000,
+        "bitDepth": 24,
+        "channel": "M"
+    },
+    "get_info": {
+        "get_place": "고금"
+    },
+    "music_type_info": {
+        "music_catagory_1": "유사국악",
+        "music_genre_cd": "CR2",
+        "instrument_cd": "SP01",
+        "main_instr_player": "주보라"
+    },
+    "annotation_data_info": {
+        "mode_cd": "MF19",
+        "gukak_beat_cd": "NB0013",
+        "single_tonguing_cd": [
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 1,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "60.700",
+                "end_time": "61.460"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 2,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "68.988",
+                "end_time": "69.607"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 3,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "65.245",
+                "end_time": "65.575"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 4,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "61.820",
+                "end_time": "62.375"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 5,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "66.229",
+                "end_time": "66.702"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 6,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "63.001",
+                "end_time": "63.634"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 7,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "72.947",
+                "end_time": "73.359"
+            }
+        ],
+        "tempo": [
+            {
+                "annotation_category": "템포",
+                "annotation_ID": 1,
+                "annotation_code": 130,
+                "start_time": "0.000",
+                "end_time": "77.521"
+            }
+        ],
+        "lyrics": []
+    }
+}

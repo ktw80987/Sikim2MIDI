@@ -1,0 +1,231 @@
+{
+    "dataset_info": {
+        "dataset_id": "2022_2_077_1",
+        "dataset_name": "국악 음원 데이터",
+        "dataset_src_path": "/data/국악/F_민속악",
+        "dataset_ver": 6,
+        "dataset_type": 3
+    },
+    "music_source_info": {
+        "music_src_nm": "AP_F02_07216",
+        "music_src_fmt": "wav",
+        "music_src_type": "P",
+        "music_nm_kor": "서용석류 대금산조 중중모리",
+        "phrs_nm_kor": "서용석류 대금산조 중중모리 대금 - 26",
+        "play_time": 29.082,
+        "music_trk_nmbr": 1,
+        "multi_trk_src_file_name": "",
+        "samplingRate": 48000,
+        "bitDepth": 24,
+        "channel": "M"
+    },
+    "get_info": {
+        "get_place": "(주) 프로덕션 고금 "
+    },
+    "music_type_info": {
+        "music_catagory_1": "국악",
+        "music_genre_cd": "F02",
+        "instrument_cd": "WN01",
+        "main_instr_player": "김상연"
+    },
+    "annotation_data_info": {
+        "mode_cd": "MG17",
+        "gukak_beat_cd": "DQ0403",
+        "single_tonguing_cd": [
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 1,
+                "annotation_code": "DW02",
+                "annotation_name": "남도 꺾는청",
+                "start_time": "3.121",
+                "end_time": "3.466"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 2,
+                "annotation_code": "DW02",
+                "annotation_name": "남도 꺾는청",
+                "start_time": "7.233",
+                "end_time": "7.556"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 3,
+                "annotation_code": "DW02",
+                "annotation_name": "남도 꺾는청",
+                "start_time": "10.376",
+                "end_time": "10.699"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 4,
+                "annotation_code": "DW01",
+                "annotation_name": "퇴성",
+                "start_time": "18.061",
+                "end_time": "18.513"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 5,
+                "annotation_code": "DW02",
+                "annotation_name": "남도 꺾는청",
+                "start_time": "20.192",
+                "end_time": "20.601"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 6,
+                "annotation_code": "DW02",
+                "annotation_name": "남도 꺾는청",
+                "start_time": "22.581",
+                "end_time": "23.076"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 7,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "23.120",
+                "end_time": "23.442"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 8,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "27.360",
+                "end_time": "27.726"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 9,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "27.877",
+                "end_time": "28.415"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 10,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "21.075",
+                "end_time": "21.484"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 11,
+                "annotation_code": "DW02",
+                "annotation_name": "남도 꺾는청",
+                "start_time": "24.863",
+                "end_time": "25.380"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 12,
+                "annotation_code": "DW02",
+                "annotation_name": "남도 꺾는청",
+                "start_time": "26.650",
+                "end_time": "27.123"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 13,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "0.000",
+                "end_time": "0.560"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 14,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "1.076",
+                "end_time": "1.614"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 15,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "4.155",
+                "end_time": "4.714"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 16,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "8.288",
+                "end_time": "8.847"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 17,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "11.043",
+                "end_time": "11.581"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 18,
+                "annotation_code": "DW01",
+                "annotation_name": "퇴성",
+                "start_time": "13.476",
+                "end_time": "13.949"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 19,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "15.887",
+                "end_time": "16.231"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 20,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "21.763",
+                "end_time": "22.323"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 21,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "25.574",
+                "end_time": "26.133"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 22,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "9.687",
+                "end_time": "10.225"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 23,
+                "annotation_code": "VB02",
+                "annotation_name": "남도요성",
+                "start_time": "23.851",
+                "end_time": "24.583"
+            }
+        ],
+        "tempo": [
+            {
+                "annotation_category": "템포",
+                "annotation_ID": 1,
+                "annotation_code": 176,
+                "start_time": "0.000",
+                "end_time": "29.082"
+            }
+        ],
+        "lyrics": []
+    }
+}

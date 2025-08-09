@@ -1,0 +1,46 @@
+{
+    "dataset_info": {
+        "dataset_id": "2022_2_077_1",
+        "dataset_name": "국악 음원 데이터",
+        "dataset_src_path": "/data/국악/F_민속악",
+        "dataset_ver": 6,
+        "dataset_type": 3
+    },
+    "music_source_info": {
+        "music_src_nm": "AP_F07_06305",
+        "music_src_fmt": "wav",
+        "music_src_type": "P",
+        "music_nm_kor": "국문뒤풀이",
+        "phrs_nm_kor": "국문뒤풀이 장구 - 06",
+        "play_time": 10.534,
+        "music_trk_nmbr": 1,
+        "multi_trk_src_file_name": "",
+        "samplingRate": 48000,
+        "bitDepth": 24,
+        "channel": "M"
+    },
+    "get_info": {
+        "get_place": "고금"
+    },
+    "music_type_info": {
+        "music_catagory_1": "국악",
+        "music_genre_cd": "F07",
+        "instrument_cd": "PN01",
+        "main_instr_player": ""
+    },
+    "annotation_data_info": {
+        "mode_cd": "",
+        "gukak_beat_cd": "DQ0405",
+        "single_tonguing_cd": [],
+        "tempo": [
+            {
+                "annotation_category": "템포",
+                "annotation_ID": 1,
+                "annotation_code": 135,
+                "start_time": "0.000",
+                "end_time": "10.534"
+            }
+        ],
+        "lyrics": []
+    }
+}

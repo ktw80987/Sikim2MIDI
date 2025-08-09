@@ -1,0 +1,1 @@
+Bar_None TimeSig_12/8 Position_0 Tempo_121.29 Program_0 Pitch_62 Velocity_127 Duration_1.1.8 Position_9 Program_0 Pitch_64 Velocity_107 Duration_3.6.8 Position_40 Program_0 <SIKIM_JanyoSeong> Pitch_64 Velocity_83 Duration_5.0.4 Position_80 Program_0 Pitch_73 Velocity_83 Duration_2.7.8 Bar_None TimeSig_12/8 Position_26 Program_0 Pitch_69 Velocity_83 Duration_6.1.4

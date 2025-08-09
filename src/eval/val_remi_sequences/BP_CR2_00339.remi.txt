@@ -1,0 +1,1 @@
+Bar_None TimeSig_12/8 Position_0 Tempo_121.29 Program_0 Pitch_63 Velocity_67 Duration_6.3.4 Position_56 Program_0 <SIKIM_Toeseong> Pitch_75 Velocity_79 Duration_7.0.4 Bar_None TimeSig_12/8 Position_16 Program_0 <SIKIM_Toeseong> Pitch_63 Velocity_71 Duration_5.0.4 Position_56 Program_0 Pitch_75 Velocity_75 Duration_1.3.8 Position_72 Program_0 Pitch_75 Velocity_103 Duration_1.0.8

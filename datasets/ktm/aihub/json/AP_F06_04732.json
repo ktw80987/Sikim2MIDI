@@ -1,0 +1,336 @@
+{
+    "dataset_info": {
+        "dataset_id": "2022_2_077_1",
+        "dataset_name": "국악 음원 데이터",
+        "dataset_src_path": "/data/국악/F_민속악",
+        "dataset_ver": 6,
+        "dataset_type": 3
+    },
+    "music_source_info": {
+        "music_src_nm": "AP_F06_04732",
+        "music_src_fmt": "wav",
+        "music_src_type": "P",
+        "music_nm_kor": "노랫가락 (지금풍류)",
+        "phrs_nm_kor": "노랫가락 (지금풍류) 피리 - 03",
+        "play_time": 16.066,
+        "music_trk_nmbr": 1,
+        "multi_trk_src_file_name": "",
+        "samplingRate": 48000,
+        "bitDepth": 16,
+        "channel": "M"
+    },
+    "get_info": {
+        "get_place": "㈜슈퍼스트링사운드"
+    },
+    "music_type_info": {
+        "music_catagory_1": "국악",
+        "music_genre_cd": "F06",
+        "instrument_cd": "WR01",
+        "main_instr_player": "박종국"
+    },
+    "annotation_data_info": {
+        "mode_cd": "MF03",
+        "gukak_beat_cd": "NB0013",
+        "single_tonguing_cd": [
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 1,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "1.161",
+                "end_time": "1.607"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 2,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "5.805",
+                "end_time": "6.567"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 3,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "8.537",
+                "end_time": "9.206"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 4,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "11.926",
+                "end_time": "12.478"
+            },
+            {
+                "annotation_category": "시김새",
+                "annotation_ID": 5,
+                "annotation_code": "VB01",
+                "annotation_name": "잔요성",
+                "start_time": "13.557",
+                "end_time": "14.049"
+            }
+        ],
+        "tempo": [
+            {
+                "annotation_category": "템포",
+                "annotation_ID": 1,
+                "annotation_code": 116,
+                "start_time": "0.000",
+                "end_time": "16.066"
+            }
+        ],
+        "lyrics": [
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 1,
+                "annotation_code": "열",
+                "start_time": "0.000",
+                "end_time": "0.295",
+                "index": 1
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 2,
+                "annotation_code": "칠",
+                "start_time": "0.430",
+                "end_time": "0.625",
+                "index": 2
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 3,
+                "annotation_code": "팔",
+                "start_time": "0.704",
+                "end_time": "0.863",
+                "index": 3
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 4,
+                "annotation_code": "세",
+                "start_time": "0.941",
+                "end_time": "1.093",
+                "index": 4
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 5,
+                "annotation_code": "-",
+                "start_time": "1.140",
+                "end_time": "1.305",
+                "index": 5
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 6,
+                "annotation_code": "가",
+                "start_time": "1.307",
+                "end_time": "1.444",
+                "index": 6
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 7,
+                "annotation_code": "-",
+                "start_time": "1.454",
+                "end_time": "1.669",
+                "index": 7
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 8,
+                "annotation_code": "되",
+                "start_time": "2.472",
+                "end_time": "2.705",
+                "index": 8
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 9,
+                "annotation_code": "구",
+                "start_time": "2.710",
+                "end_time": "2.766",
+                "index": 9
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 10,
+                "annotation_code": "-",
+                "start_time": "2.772",
+                "end_time": "3.086",
+                "index": 10
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 11,
+                "annotation_code": "보",
+                "start_time": "3.107",
+                "end_time": "3.560",
+                "index": 11
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 12,
+                "annotation_code": "니",
+                "start_time": "3.647",
+                "end_time": "3.748",
+                "index": 12
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 13,
+                "annotation_code": "물",
+                "start_time": "4.725",
+                "end_time": "4.999",
+                "index": 13
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 14,
+                "annotation_code": "을",
+                "start_time": "5.003",
+                "end_time": "5.192",
+                "index": 14
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 15,
+                "annotation_code": "-",
+                "start_time": "5.232",
+                "end_time": "5.400",
+                "index": 15
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 16,
+                "annotation_code": "푸",
+                "start_time": "5.449",
+                "end_time": "5.548",
+                "index": 16
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 17,
+                "annotation_code": "눈",
+                "start_time": "5.555",
+                "end_time": "5.970",
+                "index": 17
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 18,
+                "annotation_code": "다",
+                "start_time": "6.049",
+                "end_time": "6.371",
+                "index": 18
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 19,
+                "annotation_code": "열",
+                "start_time": "7.219",
+                "end_time": "7.699",
+                "index": 19
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 20,
+                "annotation_code": "다",
+                "start_time": "7.799",
+                "end_time": "8.003",
+                "index": 20
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 21,
+                "annotation_code": "섯",
+                "start_time": "8.082",
+                "end_time": "8.315",
+                "index": 21
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 22,
+                "annotation_code": "은",
+                "start_time": "8.398",
+                "end_time": "8.492",
+                "index": 22
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 23,
+                "annotation_code": "-",
+                "start_time": "8.496",
+                "end_time": "8.790",
+                "index": 23
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 24,
+                "annotation_code": "삼",
+                "start_time": "9.454",
+                "end_time": "9.665",
+                "index": 24
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 25,
+                "annotation_code": "오",
+                "start_time": "9.687",
+                "end_time": "9.975",
+                "index": 25
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 26,
+                "annotation_code": "-",
+                "start_time": "10.025",
+                "end_time": "10.152",
+                "index": 26
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 27,
+                "annotation_code": "십",
+                "start_time": "10.223",
+                "end_time": "10.427",
+                "index": 27
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 28,
+                "annotation_code": "오",
+                "start_time": "10.432",
+                "end_time": "10.649",
+                "index": 28
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 29,
+                "annotation_code": "-",
+                "start_time": "10.649",
+                "end_time": "10.709",
+                "index": 29
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 30,
+                "annotation_code": "요",
+                "start_time": "10.717",
+                "end_time": "10.825",
+                "index": 30
+            },
+            {
+                "annotation_category": "가사",
+                "annotation_ID": 31,
+                "annotation_code": "-",
+                "start_time": "10.901",
+                "end_time": "10.958",
+                "index": 31
+            }
+        ]
+    }
+}

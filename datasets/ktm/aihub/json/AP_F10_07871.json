@@ -1,0 +1,46 @@
+{
+    "dataset_info": {
+        "dataset_id": "2022_2_077_1",
+        "dataset_name": "국악 음원 데이터",
+        "dataset_src_path": "/data/국악/F_민속악",
+        "dataset_ver": 6,
+        "dataset_type": 3
+    },
+    "music_source_info": {
+        "music_src_nm": "AP_F10_07871",
+        "music_src_fmt": "wav",
+        "music_src_type": "P",
+        "music_nm_kor": "가야금병창 <꽃타령>",
+        "phrs_nm_kor": "가야금병창 <꽃타령> 가야금 - 02",
+        "play_time": 6.875,
+        "music_trk_nmbr": 1,
+        "multi_trk_src_file_name": "",
+        "samplingRate": 48000,
+        "bitDepth": 32,
+        "channel": "M"
+    },
+    "get_info": {
+        "get_place": "전주대학교"
+    },
+    "music_type_info": {
+        "music_catagory_1": "국악",
+        "music_genre_cd": "F10",
+        "instrument_cd": "SP01",
+        "main_instr_player": "최현미"
+    },
+    "annotation_data_info": {
+        "mode_cd": "MF07",
+        "gukak_beat_cd": "DQ0404",
+        "single_tonguing_cd": [],
+        "tempo": [
+            {
+                "annotation_category": "템포",
+                "annotation_ID": 1,
+                "annotation_code": 245,
+                "start_time": "0.000",
+                "end_time": "6.875"
+            }
+        ],
+        "lyrics": []
+    }
+}

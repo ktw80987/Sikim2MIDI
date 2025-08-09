@@ -1,0 +1,62 @@
+model:
+    decoder_max_sequence_length: 512
+    decoder_num_layers: 18
+    decoder_num_heads: 8
+    decoder_d_model: 768
+    decoder_intermediate_size: 1024
+    use_moe: False
+    num_experts: 4
+    use_deepspeed: False
+    use_accelerate: True
+
+pre_training:
+    epochs: 370
+    batch_size: 1
+    learning_rate: 0.000001
+    weight_decay: 0.01
+    gradient_accumulation_steps: 4
+    with_tracking: True
+    checkpointing_steps: epoch
+    output_dir: <point>/model/pre_g_output
+    per_device_train_batch_size: 32
+    use_scheduler: True
+    lr_scheduler_type: cosine
+    num_warmup_steps: 100
+    save_every: 50
+    max_train_steps: None
+    scheduled_sampling: False
+    epsilon: 0
+    c: -0.0161
+    k: -0.312
+
+fine_training:
+    epochs: 300
+    batch_size: 1
+    learning_rate: 0.00001
+    weight_decay: 0.01
+    gradient_accumulation_steps: 4
+    with_tracking: True
+    checkpointing_steps: epoch
+    output_dir: <point>/model/fine_g_output
+    per_device_train_batch_size: 32
+    use_scheduler: True
+    lr_scheduler_type: cosine
+    num_warmup_steps: 100
+    save_every: 50
+    max_train_steps: None
+    scheduled_sampling: False
+    epsilon: 0
+    c: -0.0161
+    k: -0.312
+
+raw_data:
+    commu:
+        folder_path:  <point>/datasets/ktm/ComMU/commu_midi_combined
+        file_extension: mid
+        caption_path: <point>/datasets/captions/captions_commu.jsonl
+    gukak:
+        folder_path: <point>/datasets/ktm/aihub/midi_with_sikimsae
+        file_extension: mid
+        caption_path: <point>/datasets/captions/captions_gukak_s.jsonl
+
+artifact_folder: <point>/datasets/artifacts
