@@ -1,3 +1,5 @@
+# Sikim2MIDI
+
 ## [사전학습]
 accelerate launch --multi_gpu --num_processes=4 pre_train.py
 ## [파인튜닝]
