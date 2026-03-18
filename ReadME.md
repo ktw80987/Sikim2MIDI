@@ -75,7 +75,7 @@ python src/eval/evaluate.py \
 
 ------------------------------------------------------------------------
 
-## 📈 ESR 평가지표 계산
+## 📈 MERR(MIDI Error Reproduction Rate) 평가지표 계산
 
 ### 1. Base REMI
 
